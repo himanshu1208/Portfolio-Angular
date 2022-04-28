@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@200&display=swap');
+
+.brand {
+    font-family: 'Allura', cursive;
+    font-size:60px;
+}
+
+@media (max-width:576px) {
+    .brand {
+        font-size: 40px;
+        font-weight: 500;
+    }
+}
+
+.navButtons a {
+    text-decoration: none;
+    padding: 8px 20px;
+    border: 1px solid coral;
+    border-radius: 10px 0 10px;
+    color: white;
+    margin-left: 30px;
+    transition: .5s ease-in-out;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.navButtons a:hover {
+    background-color: coral;
+    color: black;
+    transform: translateY(-10);
+}
+
+.active {
+    background-color: coral;
+}
+
+.box {
+    position: fixed;
+}

@@ -1,0 +1,21 @@
+[
+    {
+        "degree": "10th",
+        "school": "Agrawal High School",
+        "passingYear": "2014",
+        "logo": "assets/imgs/school.jpg"
+    },
+    {
+        "degree": "12th",
+        "school": "Mahabodhi College",
+        "passingYear": "2016",
+        "logo": "assets/imgs/school.jpg"
+    },
+    {
+        "degree": "B.Tech (CSE)",
+        "school": "Lovely Professional University",
+        "passingYear": "2020",
+        "logo": "assets/imgs/lpu.png"
+    }
+
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Adare Restaurant",
+        "company": "udemy",
+        "Role": "Frontend Developer",
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"}
+        ],
+        "template": "assets/imgs/adare.png"
+    },
+    {
+        "name": "Roar Cycles",
+        "company": "udemy",
+        "Role": "Frontend Developer",
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"}
+        ],
+        "template": "assets/imgs/roar.png"
+    },
+    {
+        "name": "Portfolio Template",
+        "company": "udemy",
+        "Role": "Frontend Developer",
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"},
+            {"name":"Flexbox"}
+
+        ],
+        "template": "assets/imgs/port.png"
+    },
+    {
+        "name": "Yogurt Shop",
+        "company": "udemy",
+        "Role": "Frontend Developer",
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"},
+            {"name":"Bootstrap"}
+
+        ],
+        "template": "/assets/imgs/yogurt.png"
+    }
+]

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+.container-fluid {
+    height: 541px;
+    background-color: #212529;
+}
+.row {
+    margin: 30px 40px;
+    border: 5px double coral;
+    border-radius: 10px;
+}
+
+.content {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    align-content: center;
+    align-items: center;   
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+    font-weight: 600;
+}
+.school{
+    padding: 10px 0 0 0;
+}
+
+
+
+

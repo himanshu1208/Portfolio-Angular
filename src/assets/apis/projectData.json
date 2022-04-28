@@ -1,0 +1,66 @@
+[
+    {
+        "name": "5G Network Management System",
+        "company": "Cognizant",
+        "Role": "Frontend Developer",
+        "description":["Rewrite/optimize code to build the wallboard, development of KPI drill down and netconf traps using Angular 11 based on input json coming from the backend server.","Development of chart based GUI using Prometheus & Grafana.","Setup execution environment and deployment process."],
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"},
+            {"name":"Typescript"},
+            {"name":"Angular"},
+            {"name":"Python"},
+            {"name":"Data Structures"},
+            {"name": "Echarts"},
+            {"name":"Grafana"},
+            {"name": "Prometheous"},
+            {"name": "Git"},
+            {"name": "linux"},
+            {"name": "Yang Models"},
+            {"name": "Angular Material"},
+            {"name": "BootStrap"},
+            {"name":"ArangoDB3"}
+        ],
+        
+        "year": "2021 - Present"
+    },
+    {
+        "name": "Integrated Device Automation Testing Solution",
+        "company": "Cognizant",
+        "Role": "Frontend Developer",
+        "description":["A testing solution which is intended to orchestrate and automate any kind of testing process of a device or a software. It Integrates with any automation tool like Witbe or Spirent etc. it can interface with any device including Video/Wireless/wireline products for various kind of testing purpose.","Owned the responsibility of the overall development Process of UI Part.","Setup execution environment and deployment process."],
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"},
+            {"name":"Typescript"},
+            {"name":"Angular"},
+            {"name": "Angular Material"},
+            {"name": "BootStrap"},
+            {"name": "Echarts"},
+            {"name": "Git"}
+
+        ],
+        
+        "year": "2020-2021"
+    },
+    {
+        "name": "Autonomous Device Development Practice",
+        "company": "Cognizant",
+        "Role": "Frontend Developer, Python Developer",
+        "description":["Practicing on Programming and machine learning algorithms to automate Tello drones and Turtle-Bot robots on Python with 5G connectivity.","Development of Faulty System identification & recognition using Tensorflow Trained models and Machine learning algorithms.","Worked with the integration of camera module to a hololence"],
+        "techs": [
+            {"name": "Html5"},
+            {"name":"Css3"},
+            {"name":"Typescript"},
+            {"name":"Angular"},
+            {"name": "Angular Material"},
+            {"name": "BootStrap"},
+            {"name":"Raspberry-Pi"},
+            {"name":"Firebase"},
+            {"name":"Python"},
+            {"name":"OpenCv"},
+            {"name":"IoT"}
+        ],
+        "year": "2022 - Present"
+    }
+]

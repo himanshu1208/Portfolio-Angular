@@ -1,0 +1,89 @@
+// @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@200&display=swap');
+
+// .card {
+//     background-color: transparent;
+//     height: 180px;
+//     width: 500px;
+//     border: 4px double white;
+//     display: flex;
+//     align-items: center;
+//     border-radius: 40px 0;
+//     transition: 0.5s ease-in-out;
+// }
+
+// .card:hover {
+//     height: 220px;
+//     width: 550px;
+//     padding: 45px 0;
+//     background-color: #fff;
+//     color: black;
+//     i.fa-at {
+//         color:coral
+//     }
+//     p.mail {
+//         color: black;
+//         font-weight: bold;
+//     }
+// }
+
+// .social {
+//     height: 340px;
+//     width: 400px;
+// }
+// h2 {
+//     font-family: 'League Spartan', sans-serif;
+
+// }
+.contacts {
+    height: 22%;
+    width: 90%;
+    border: 1px solid coral;
+    border-radius: 0 30px;
+    margin: 10px 0;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    transition: 0.4s ease-in-out;
+    
+}
+
+.contacts:hover {
+    background-color: #fff;
+    color: black;
+    height: 25%;
+    width: 95%;
+    i.fa-linkedin {
+        color:#0A66C2
+    }
+    i.fa-phone {
+        color: #04AA6D;
+    }
+    i.fa-whatsapp {
+        color: #47C756;
+    }
+    i.fa-instagram {
+        color: #f99185;
+    }
+}
+
+// .mail {
+//     font-family: 'League Spartan', sans-serif;
+// }
+
+// i {
+//     font-size: 50px;
+// }
+
+b {
+    color: coral;
+    font-family: 'League Spartan', sans-serif;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Home Automation Using Google Assistant",
+        "company": "Academics",
+        "Role": "IoT Developer",
+        "description":["A fully voice controlled system which is made using Nodemcu (Esp8266) development board, IFTTT Platform and Google Assistant which helps to control n number of electronics devices on the voice command from any distance."],
+        "techs": [
+            {"name": "Blynk"},
+            {"name":"NodeMcu"},
+            {"name":"C++"},
+            {"name":"IFTTT"},
+            {"name":"Google Assistant"},
+            {"name":"IoT"}
+        ],
+        
+        "year": "June 2018 - Sept 2018"
+    },
+    {
+        "name": "Cinch ParkIN' (Smart Parking System)",
+        "company": "Academics",
+        "Role": "Backend developer, IoT Developer",
+        "description":["In the era of digital world, messed up parking is one of the problem which is faced by many people. Cinch parking is a type of solution which helps to make the parking system digitalize and futuristic with the help of latest technologies like IoT and cloud computing.","Developed Python environment and integrated firebase realtime database to raspberry module","Designed the system architecture of raspberry-pi, controlled sensors, database and mobile application"],
+        "techs": [
+            {"name": "Python3"},
+            {"name":"C++"},
+            {"name":"Raspberry-Pi"},
+            {"name":"Firebase"},
+            {"name": "Sensors & Actuators"},
+            {"name": "Architecture Design & development"},
+            {"name": "Github"}
+        ],
+        
+        "year": "Jan 2019 - Jan 2020"
+    },
+    {
+        "name": "Smart Security Camera",
+        "company": "Academics",
+        "Role": "IoT Developer, Python Developer",
+        "description":["Designed and developed smart camera module which captures a person who comes nearby the main door and notifies the user with captured image to your whatsapp and email","Designed the System Archieture of this smart system"],
+        "techs": [
+            {"name": "Raspberry-Pi"},
+            {"name":"Python"},
+            {"name":"Pi-Camera"},
+            {"name":"PIR Sensor"},
+            {"name":"Twilio"}
+
+        ],
+        "year": "Jan 2020 - March 2020"
+    }
+]

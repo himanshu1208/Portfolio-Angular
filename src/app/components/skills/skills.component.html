@@ -1,0 +1,38 @@
+<!-- <div class="container-fluid">
+    <div class="row">
+        <div class="col-3 skillContent">
+            <img src="assets/imgs/html.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/css3.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/javascript.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/angular.gif" alt="" height="240">
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-3 skillContent">
+            <img src="assets/imgs/python.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/apis.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/selenium.gif" alt="" height="240">
+        </div>
+        <div class="col-3">
+            <img src="assets/imgs/iot.gif" alt="" height="240">
+        </div>
+    </div>
+</div> -->
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-3" *ngFor="let skill of skills">
+            <img src={{skill.imgUrl}} alt="" class="img-fluid">
+        </div>
+    </div>
+</div>
